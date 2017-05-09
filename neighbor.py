@@ -144,12 +144,12 @@ def k_nearest_neighbors(original, new, k, names, printing):
         print("# Correctly Identified : {0} / {1}".format(num_correct, len(new)))
         print("Accuracy : {0}\n".format(accuracy))
 
-        print("{0:<8}{1:<8}{2:<8}{3:<8}".format("Composer", "Num Correct",
+        print("{0:<8}{1:<8}{2:<8}{3:<8}".format("Names", "Num Correct",
                                                 "Total", "Accuracy")
         for i in range(len(names)):
             # Format:
             # Composer:
-            print("{0:<8}{1:<8}{2:<8}{3:<8}".format(names[i],
+            print("{0:<10}{1:<10}{2:<10}{3:<10}".format(names[i],
                 correct_pieces_by_composer[i], total_pieces_by_composer[i],
                 correct_pieces_by_composer[i] / total_pieces_by_composer[i])
 
