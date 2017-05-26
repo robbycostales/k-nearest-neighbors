@@ -1,7 +1,8 @@
-# kd_nearest_neighbor
-Clusters vectors in k dimensions by the nearest neighbor algorithm
+# k-nearest-neighbors
+Clusters vectors of arbitrary length by k-nearest neighbors algorithm
 
 # NOTE
-BUILT SPECIFICALLY FOR A SPECIFIC PROJECT
-Some variable names may be specific to that project, but the functions can
-be used more generally
+This program was build specifically for a certain project.
+While some variable names may be specific to that project, the functions can
+be used more generally.
+I do plan on going back later an generalizing the variable names. But for now... on to bigger things!
