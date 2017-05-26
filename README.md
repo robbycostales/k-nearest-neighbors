@@ -1,5 +1,5 @@
 # k-nearest-neighbors
-Clusters vectors of arbitrary length by k-nearest neighbors algorithm
+Clusters vectors of arbitrary length by k-nearest neighbors algorithm.
 
 # NOTE
 This program was build specifically for a certain project.
